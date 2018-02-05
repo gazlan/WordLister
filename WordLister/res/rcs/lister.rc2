@@ -1,0 +1,39 @@
+head 1.1;
+branch ;
+access ;
+symbols ;
+locks admin(2011.06.25.09.41.20):1.1; strict;
+comment @@;
+
+
+1.1
+date 2011.06.25.09.41.05; author admin; state Exp;
+branches ;
+next ;
+
+ext
+@project D:/Work/Lister/lister.pj;
+@
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision@
+text
+@//
+// SHINGLES.RC2 - resources Microsoft Visual C++ does not edit directly
+//
+
+#ifdef APSTUDIO_INVOKED
+	#error this file is not editable by Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Add manually edited resources here...
+
+/////////////////////////////////////////////////////////////////////////////
+@
